@@ -1,0 +1,5 @@
+elasticsearch
+sentence_transformers
+pandas
+json
+warnings
