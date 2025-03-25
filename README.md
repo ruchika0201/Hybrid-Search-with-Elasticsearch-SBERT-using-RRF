@@ -1,0 +1,1 @@
+This project implements a Hybrid Search system using Elasticsearch for lexical search and Sentence Transformers (SBERT) for semantic search. The code combines both search methods and merges the results using Reciprocal Rank Fusion (RRF) to provide highly relevant results.
